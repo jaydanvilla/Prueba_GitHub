@@ -25,3 +25,5 @@ function shout() {
 
 
 console.log({ wolverine, ironman, spiderman, greet: greet(), shout: shout() });
+
+//* Agregando unnuevo comentario...
